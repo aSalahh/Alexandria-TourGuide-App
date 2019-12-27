@@ -1,0 +1,51 @@
+<resources>
+<string name="app_name">Alexandria Guide</string>
+<string name="action_settings">Settings</string>
+<string name="Name_holder">Name</string>
+<string name="city_name">Alexandria</string>
+
+<string-array name="tab_name">
+    <item>Places</item>
+    <item>Hotels</item>
+    <item>Food</item>
+    <item>Drinks</item>
+</string-array>
+<string name="number">number</string>
+
+
+<!--    Main Activity-->
+<string name="Actionbar_title">Alexandria Tour Guide</string>
+<string name="about_alex">https://en.wikipedia.org/wiki/Alexandria</string>
+<string name="location">"https://www.google.com/maps/place/الإسكندرية" +
+                                        "%E2%80%AD/@31.1470478,30.1626293,10.48z/data=!4m5!3m4!" +
+                                        "1s0x14f5c49126710fd3:0xb4e0cda629ee6bb9!8m2!3d31.2000924!4d29.9187387"</string>
+<string name="flight">https://www.google.com/flights?lite=0#flt=/m/01w2v./m/013g3.2019-12-21*/m" +
+                                        "/013g3./m/01w2v.2019-12-25;c:EGP;e:1;sd:1;t:f"</string>
+<string name="trains">https://enr.gov.eg/ticketing/public/smartSearch.jsf</string>
+
+<!--  Places -->
+<string name="place_1">Citadel of Qaitbay</string>
+<string name="place_2">Shati Stanli</string>
+<string name="place_3">library</string>
+<string name="place_4">Roman Theater</string>
+
+<!--    hotels-->
+<string name="hotel_1">FOUR SEASONS</string>
+<string name="hotel_2">Paradise Inn Le Metropole</string>
+<string name="hotel_3">Steigenberger Cecil</string>
+<string name="hotel_4">TOLIP</string>
+
+<!--    food-->
+<string name="food_1">Byblos</string>
+<string name="food_2">Country Hills</string>
+<string name="food_3">Cook Door</string>
+<string name="food_4">Mcdonalds</string>
+
+<!--    drink-->
+<string name="drink_1">Brazilian</string>
+<string name="drink_2">Grand</string>
+<string name="drink_3">Arous El Selsel</string>
+<string name="drink_4">Starbucks</string>
+
+
+</resources>
